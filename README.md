@@ -1,8 +1,38 @@
+Project Overview
 
-Project Name: Inventory Management System (Java)
+This is a console-based Java application that helps manage products in a store inventory.
+The project allows users to add new products, update product quantity, sell products, view inventory, and save data to a file for future use.
 
-Short Description:
-This is a console-based Java application developed to manage product inventory in a store.
-The system allows adding products, updating stock quantity, selling products, and viewing inventory details.
-Data is stored using file handling so that inventory information is preserved after program restart.
-This project demonstrates my understanding of Core Java concepts such as Object-Oriented Programming, ArrayList, file handling, and exception handling.
+It is designed for beginners learning Core Java and demonstrates important programming concepts such as Object-Oriented Programming (OOP), ArrayList, File Handling, and Exception Handling.
+
+Features
+
+1. Add Product – Add a new product with unique ID, name, quantity, and price.
+
+
+2. View Products – Display all available products with details.
+
+
+3. Update Quantity – Modify product quantity when new stock arrives.
+
+
+4. Sell Product – Reduce product quantity when a sale happens.
+
+
+5. Save & Load Data – Save inventory data using file handling and load automatically when the program restarts.Technologies Used
+
+Language: Java
+
+Concepts:
+
+Classes and Objects (OOP)
+
+ArrayList for dynamic data storage
+
+File I/O using Object Serialization
+
+Exception Handling (Input validation)
+
+Menu-driven Console Interface
+
+
